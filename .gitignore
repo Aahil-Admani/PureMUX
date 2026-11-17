@@ -18,4 +18,4 @@ downloads_cache/
 # Binaries & Large Assets (Optional: better to instruct users to download FFmpeg separately)
 ffmpeg.exe
 icon.ico
-icon.png
+# icon.png
