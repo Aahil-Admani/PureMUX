@@ -1,0 +1,21 @@
+# Python Virtual Environment
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# PyInstaller Build Artifacts
+build/
+dist/
+*.spec
+
+# App Runtime & Cache Folders
+downloads_cache/
+*.mp4
+*.mp3
+
+# Binaries & Large Assets (Optional: better to instruct users to download FFmpeg separately)
+ffmpeg.exe
+icon.ico
+icon.png
